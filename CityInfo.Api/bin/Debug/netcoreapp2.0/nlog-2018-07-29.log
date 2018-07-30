@@ -1,0 +1,44 @@
+2018-07-29 23:17:59.7490|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:10477/  0
+2018-07-29 23:17:59.7490|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/  
+2018-07-29 23:17:59.8520|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/  
+2018-07-29 23:17:59.8520|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:10477/  0
+2018-07-29 23:17:59.9520|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 283.7837ms 200 
+2018-07-29 23:17:59.9890|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 283.7837ms 200 
+2018-07-29 23:18:00.2140|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 531.226ms 404 text/plain
+2018-07-29 23:18:00.2170|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 531.226ms 404 text/plain
+2018-07-29 23:18:04.0290|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:04.0290|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:04.2440|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:04.2440|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:04.3260|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:04.3260|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:04.3610|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:04.3610|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:04.4140|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 272.8554ms
+2018-07-29 23:18:04.4140|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 272.8554ms
+2018-07-29 23:18:04.4430|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 439.7646ms 500 text/plain; charset=utf-8
+2018-07-29 23:18:04.4450|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 439.7646ms 500 text/plain; charset=utf-8
+2018-07-29 23:18:07.6370|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:07.6370|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:07.7230|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:07.7230|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:07.8670|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:07.8670|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:07.8910|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:07.8940|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:07.9080|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 257.6929ms
+2018-07-29 23:18:07.9080|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 257.6929ms
+2018-07-29 23:18:07.9260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 285.5641ms 500 text/plain; charset=utf-8
+2018-07-29 23:18:07.9260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 285.5641ms 500 text/plain; charset=utf-8
+2018-07-29 23:18:27.3200|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:27.3200|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:10477/api/cities/5/pointsofinterest  
+2018-07-29 23:18:27.3570|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:27.3570|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) with arguments (5) - ModelState is Valid
+2018-07-29 23:18:27.4400|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:27.4400|FATAL|CityInfo.Api.Controllers.PointsOdInterestController|Exception while getting points of interest for city with id 5.
+2018-07-29 23:18:27.4400|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:27.4550|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-07-29 23:18:27.4820|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 142.1057ms
+2018-07-29 23:18:27.4820|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.Api.Controllers.PointsOdInterestController.GetPointsOfInterest (CityInfo.Api) in 142.1057ms
+2018-07-29 23:18:27.5260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 178.747ms 500 text/plain; charset=utf-8
+2018-07-29 23:18:27.5260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 178.747ms 500 text/plain; charset=utf-8
