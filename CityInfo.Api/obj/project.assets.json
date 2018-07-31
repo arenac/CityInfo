@@ -13324,23 +13324,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ssbntt\\.nuget\\packages\\": {},
+    "C:\\Users\\nilon\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ssbntt\\Source\\Repos\\CityInfo\\CityInfo.Api\\CityInfo.Api.csproj",
+      "projectUniqueName": "C:\\Users\\nilon\\Projects\\CityInfo\\CityInfo.Api\\CityInfo.Api.csproj",
       "projectName": "CityInfo.Api",
-      "projectPath": "C:\\Users\\ssbntt\\Source\\Repos\\CityInfo\\CityInfo.Api\\CityInfo.Api.csproj",
-      "packagesPath": "C:\\Users\\ssbntt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ssbntt\\Source\\Repos\\CityInfo\\CityInfo.Api\\obj\\",
+      "projectPath": "C:\\Users\\nilon\\Projects\\CityInfo\\CityInfo.Api\\CityInfo.Api.csproj",
+      "packagesPath": "C:\\Users\\nilon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nilon\\Projects\\CityInfo\\CityInfo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ssbntt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nilon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

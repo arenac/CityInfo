@@ -9,3 +9,14 @@ C:\Users\ssbntt\Source\Repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityI
 C:\Users\ssbntt\Source\Repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.dll
 C:\Users\ssbntt\Source\Repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.pdb
 C:\Users\ssbntt\Source\Repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.csprojAssemblyReference.cache
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.deps.json
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.runtimeconfig.json
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.runtimeconfig.dev.json
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.dll
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.pdb
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.csprojAssemblyReference.cache
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.csproj.CoreCompileInputs.cache
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.AssemblyInfoInputs.cache
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.AssemblyInfo.cs
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.dll
+C:\Users\nilon\Projects\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.pdb
